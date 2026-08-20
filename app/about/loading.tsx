@@ -1,0 +1,2 @@
+import { RouteLoading } from "@/components/route-state";
+export default function Loading() { return <RouteLoading label="Preparing page" />; }

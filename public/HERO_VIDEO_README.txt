@@ -1,0 +1,1 @@
+Add /public/hero-video.mp4 for the cinematic hero background. For project-specific worlds, use additional local MP4/WebM assets and wire them into ProjectScene. The current build remains functional without them.\n

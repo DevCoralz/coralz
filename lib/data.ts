@@ -9,7 +9,8 @@ export const siteConfig = {
   heroMedia: {
     src: "/hero-orbit.svg",
     alt: "Abstract orbital artwork",
-    enabled: true
+    enabled: true,
+    video: "/hero-video.mp4"
   },
   socials: [
     { label: "GitHub", href: "https://github.com/" },
